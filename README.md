@@ -31,15 +31,15 @@ docker-compose up
 ## Screenshots
 
 ### Cars List
-![Cars List](path_to/Cars_list.png)
+![Cars List](Cars_list.png)
 CarsMS By M.Touil
 
 ### Cars View
-![Cars View](path_to/Cars_view.png)
+![Cars View](Cars_view.png)
 CarsMS By M.Touil
 
 ### Cars Edit
-![Cars Edit](path_to/Cars_edit.png)
+![Cars Edit](Cars_edit.png)
 CarsMS By M.Touil
 
 ## Usage
